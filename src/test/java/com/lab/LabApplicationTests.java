@@ -11,7 +11,6 @@ public class LabApplicationTests {
 
 	@Test
 	public void contextLoads() {
-            System.out.println("Hola Raquel");
 	}
 
 }
